@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 ### My name is Yi Terng
 - Cybersecurity Student
 - I like all things tech, but more so in cybersecurity and cloud computing
+- I love to meet new people and chat, so feel free to contact me!!
 - Currently working on some side projects which will be uploaded on Github
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way in order to improve myself as much as I can.
