@@ -14,13 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.linkedin.com/in/yi-terng-lee-7b390018b/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Xerozzz">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br>
+
 
 ### My name is Yi Terng
 - Cybersecurity Student
@@ -28,3 +22,10 @@ Here are some ideas to get you started:
 - I love to meet new people and chat, so feel free to contact me!!
 - Currently working on some side projects which will be uploaded on Github
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way in order to improve myself as much as I can.
+
+<a href="https://www.linkedin.com/in/yi-terng-lee-7b390018b/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Xerozzz">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
