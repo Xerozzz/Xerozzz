@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Currently working on some side projects which will be uploaded on Github
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way in order to improve myself as much as I can.
 
-<a href="www.yiterng.live">My Personal Website</a>
+<a href="https://www.yiterng.live">My Personal Website</a>
 
 <a href="https://www.linkedin.com/in/yi-terng-lee-7b390018b/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
